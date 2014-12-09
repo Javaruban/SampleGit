@@ -1,3 +1,5 @@
+sample to be merged
+sample to be merged
 package com.edlore.industrial;
 
 import android.content.Context;
