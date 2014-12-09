@@ -1,4 +1,5 @@
-ruban
+
+conflict
 JAVA_HOME            D:\kony\jdk1.6.0_32;
 path                 %Path%;%JAVA_HOME%\bin;%ANT_HOME%\bin;D:\androidsdk\tools;D:\androidsdk\platform-tools;D:\kony\ImageMagick;D:\kony\Ant\bin;D:\kony\jdk1.6.0_32\bin;
 
